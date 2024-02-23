@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Popover Modify Style Demo
 =================================
+
+怎么给Popover自定义样式，比如背景色
 
 ```
 npm install
